@@ -1,0 +1,8 @@
+.claude/
+docs/index_files/
+docs/site_libs/
+docs/index.html
+docs/search.json
+docs/methodology/**/*.html
+docs/methodology/**/site_libs/
+

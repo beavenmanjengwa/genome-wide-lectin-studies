@@ -1,0 +1,275 @@
+{
+  "Title": "Plant Lectin Families",
+  "Description": "Reference model sequences and conserved Pfam domains used for the identification of putative genes belonging to plant lectin families",
+  "Families": [
+    {
+      "LectinFamily": "ABA",
+      "FullName": "Agaricus bisporus lectin (ABA)",
+      "ItalicSpecies": "Agaricus bisporus",
+      "ModelOrganism": "Agaricus bisporus",
+      "Pfam": {
+        "Domain": "FB_lectin",
+        "Id": "PF07367",
+        "Model": "PF07367"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "AAA85813",
+        "File": "AAA85813.txt"
+      },
+      "Structure": {
+        "PdbId": "1Y2X",
+        "Image": "/3d/1Y2X.png"
+      },
+      "Sequence": ">AAA85813.1 lectin [Agaricus bisporus]\nMTYTISIRVYQTTPKGFFRPVERTNWKYANGGTWDEVRGEYVLTMGGSGTSGSLRFVSSDTDEIFVATFG\nVHNYKRWCDIVTNLTNEQTALVINQEYYGVPIRDQARENQLTSYNVANAKGRRFAIEYTVTEGIISRPIS\nSSDKCFIRLPSQKS"
+    },
+    {
+      "LectinFamily": "Amaranthin",
+      "FullName": "Amaranthin",
+      "ItalicSpecies": null,
+      "ModelOrganism": "Amaranthus caudatus",
+      "Pfam": {
+        "Domain": "Agglutinin",
+        "Id": "PF07468",
+        "Model": "PF07468"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "AAL05954",
+        "File": "AAL05954.txt"
+      },
+      "Structure": {
+        "PdbId": null,
+        "Image": null
+      },
+      "Sequence": ">AAL05954.1 agglutinin [Amaranthus caudatus]\nMAGLPVIMCLKSNNNQKYLRYQSDNIQQYGLLQFSADKILDPLAQFEVEPSKTYDGLVHIKSRYTNKYLV\nRWSPNHYWITASANEPDENKSNWACTLFKPLYVEEGNMKKVRLLHVQLGHYTQNYTVGGSFVSYLFAESS\nQIDTGSKDVFHVIDWKSIFQFPKRYVTFKGNNGKYLGVITINQLPCLQFGYDNLNDPKVAHEMFVTSNGT\nICIKSTYMNKFWRLSTDDWILVDGNDPRETNEAAALFRSDVHDFNVISLLNMQKTWFIKRFTSGKPGFIN\nCMNAATQNVDETAILEIIGLGSNN"
+    },
+    {
+      "LectinFamily": "CRA",
+      "FullName": "Chitinase related agglutinin (CRA)",
+      "ItalicSpecies": null,
+      "ModelOrganism": "Robinia pseudoacacia",
+      "Pfam": {
+        "Domain": null,
+        "Id": null,
+        "Model": "CRA.hmm"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "ABL98074",
+        "File": "ABL98074.txt"
+      },
+      "Structure": {
+        "PdbId": null,
+        "Image": null
+      },
+      "Sequence": ">ABL98074.1 chitinase-related agglutinin [Robinia pseudoacacia]\nIKGGYWYSGSGLAVSDINPSHFTHLFCAFADLDPNTNKLTISSSNAAAFSTFTQTVRAKNPSVKTLLSIG\nGGGGRALAAVFANMASQASRRKSFIDSSIQLARRNNFHGLDLDWEYPSSDIDKTNFASLIREWRAAVATE\nSSTSGTPALLLSAAVGGSDQITPLKYYPGEAIANNLDWVNVMTYDLYTSDSYPTLTQPPAPLFYPRGIFS\nADEGITKWIQSGVPESKLALGLPFYGFKWRLSDPNNHGLFAPATQGLGAVKYKDIVNTGGQVEFDSTYVT\nNYCFKGTDWYGYDDTQSISAKVAYAKQRGLFGYFAWHIEQDSNWALS"
+    },
+    {
+      "LectinFamily": "Cyanovirin",
+      "FullName": "Cyanovirin",
+      "ItalicSpecies": null,
+      "ModelOrganism": "Nostoc ellipsosporum",
+      "Pfam": {
+        "Domain": "CVNH",
+        "Id": "PF08881",
+        "Model": "PF08881"
+      },
+      "BlastModel": {
+        "Database": "UniProt",
+        "Accession": "P81180",
+        "File": "P81180.txt"
+      },
+      "Structure": {
+        "PdbId": "1IIY",
+        "Image": "/3d/1IIY.png"
+      },
+      "Sequence": ">P81180 Cyanovirin-N [Nostoc ellipsosporum]\nLGKFSQTCYNSAIQGSVLTSTCERTNGGYNTSSIDLNSVIENVDGSLKWQPSNFIETCRN\nTQLAGSSELAAECKTRAQQFVSTKINLDDHIANIDGTLKYE"
+    },
+    {
+      "LectinFamily": "EUL",
+      "FullName": "Euonymus europaeus lectin (EUL)",
+      "ItalicSpecies": "Euonymus europaeus",
+      "ModelOrganism": "Euonymus europaeus",
+      "Pfam": {
+        "Domain": null,
+        "Id": null,
+        "Model": null
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "ABW73993",
+        "File": "ABW73993.txt"
+      },
+      "Structure": {
+        "PdbId": null,
+        "Image": null
+      },
+      "Sequence": ">ABW73993.1 lectin 1 [Euonymus europaeus]\nMASTIIATGPTYRVYCRAAPNYNMTVGKGVAFLAPIDETNELQYWYKDDTYSYIKDEAGLPAFSLVNKAT\nGLTLKHSNHHPVPVKLVTYNPNVVDESVLWSQADDRGDGYSAIRSLTNPASHLEAAPLNDWSYNGAIIMG\nGVWIDAYNQQWKIEPHTG"
+    },
+    {
+      "LectinFamily": "GNA",
+      "FullName": "Galanthus nivalis lectin (GNA)",
+      "ItalicSpecies": "Galanthus nivalis",
+      "ModelOrganism": "Galanthus nivalis",
+      "Pfam": {
+        "Domain": "B_lectin",
+        "Id": "PF01453",
+        "Model": "PF01453"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "AAA33346",
+        "File": "AAA33346.txt"
+      },
+      "Structure": {
+        "PdbId": "1MSA",
+        "Image": "/3d/1MSA.png"
+      },
+      "Sequence": ">AAA33346.1 lectin [Galanthus nivalis]\nMAKASLLILAAIFLGVITPSCLSDNILYSGETLSTGEFLNYGSFVFIMQEDCNLVLYDVDKPIWATNTGG\nLSRSCFLSMQTDGNLVVYNPSNKPIWASNTGGQNGNYVCILQKDRNVVIYGTDRWATGTHTGLVGIPASP\nPSEKYPTAGKIKLVTAK"
+    },
+    {
+      "LectinFamily": "Hevein",
+      "FullName": "Hevein",
+      "ItalicSpecies": null,
+      "ModelOrganism": "Hevea brasiliensis",
+      "Pfam": {
+        "Domain": "Chitin_bind_1",
+        "Id": "PF00187",
+        "Model": "PF00187"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "AAA33357",
+        "File": "AAA33357.txt"
+      },
+      "Structure": {
+        "PdbId": "4WP4",
+        "Image": "/3d/4WP4.png"
+      },
+      "Sequence": ">AAA33357.1 hevein (HEV1) precursor [Hevea brasiliensis]\nMNIFIVVLLCLTGVAIAEQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNCKDSGEGVGGGSA\nSNVLATYHLYNSQDHGWDLNAASAYCSTWDANKPYSWRSKYGWTAFCGPVGAHGQSSCGKCLSVTNTGTG\nAKTTVRIVDQCSNGGLDLDVNVFRQLDTDGKGYERGHITVNYQFVDCGDSFNPLFSVMKSSVIN"
+    },
+    {
+      "LectinFamily": "JRL",
+      "FullName": "Jacalin",
+      "ItalicSpecies": null,
+      "ModelOrganism": "Artocarpus integer",
+      "Pfam": {
+        "Domain": "Jacalin",
+        "Id": "PF01419",
+        "Model": "PF01419"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "AAA32680",
+        "File": "AAA32680.txt"
+      },
+      "Structure": {
+        "PdbId": "4R6R",
+        "Image": "/3d/4R6R.png"
+      },
+      "Sequence": ">AAA32680.1 jacalin [Artocarpus integer]\nMAYSSLLSLSVLALLFSISSADTRKWFLANGINQNPIGIIEAAVGVSEDLLNLNGMEAKNDEQSGISQTV\nIVGPWGAKVSTSSNGKAFDDGAFTGIREINLSYNKETAIGDFQVVYDLNGSPYVGQNHKSFITGFTPVKI\nSLDFPSEYIMEVSGYTGNVSGYVVVRSLTFKTNKKTYGPYGVTSGTPFNLPIENGLIVGFKGSIGYWLDY\nFSMYLSL"
+    },
+    {
+      "LectinFamily": "Legume lectin",
+      "FullName": "Legume lectin",
+      "ItalicSpecies": null,
+      "ModelOrganism": "Glycine max",
+      "Pfam": {
+        "Domain": "Lectin_legB",
+        "Id": "PF00139",
+        "Model": "PF00139"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "AAA33983",
+        "File": "AAA33983.txt"
+      },
+      "Structure": {
+        "PdbId": "1JBC",
+        "Image": "/3d/1JBC.png"
+      },
+      "Sequence": ">AAA33983.1 lectin prepeptide [Glycine max]\nMATSKLKTQNVVVSLSLTLTLVLVLLTSKANSAETVSFSWNKFVPKQPNMILQGDAIVTSSGKLQLNKVD\nENGTPKPSSLGRALYSTPIHIWDKETGSVASFAASFNFTFYAPDTKRLADGLAFFLAPIDTKPQTHAGYL\nGLFNENESGDQVVAVEFDTFRNSWDPPNPHIGINVNSIRSIKTTSWDLANNKVAKVLITYDASTSLLVAS\nLVYPSQRTSNILSDVVDLKTSLPEWVRIGFSAATGLDIPGESHDVLSWSFASNLPHASSNIDPLDLTSFV\nLHEAI"
+    },
+    {
+      "LectinFamily": "LysM",
+      "FullName": "LysM",
+      "ItalicSpecies": null,
+      "ModelOrganism": "Brassica juncea",
+      "Pfam": {
+        "Domain": "LysM",
+        "Id": "PF01476",
+        "Model": "PF01476"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "BAN83772",
+        "File": "BAN83772.txt"
+      },
+      "Structure": {
+        "PdbId": "5JCE",
+        "Image": "/3d/5JCE.png"
+      },
+      "Sequence": ">BAN83772.1 LysM domain [Brassica juncea]\nGVPAEFIQRYNPGVDFRSGRGIVFVPGKDPNGTFP"
+    },
+    {
+      "LectinFamily": "Nictaba",
+      "FullName": "Nicotiana tabacum lectin (Nictaba)",
+      "ItalicSpecies": "Nicotiana tabacum",
+      "ModelOrganism": "Nicotiana tabacum",
+      "Pfam": {
+        "Domain": "PP2",
+        "Id": "PF14299",
+        "Model": "PF14299"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "AAK84134",
+        "File": "AAK84134.txt"
+      },
+      "Structure": {
+        "PdbId": "8AD2",
+        "Image": "/3d/8AD2.png"
+      },
+      "Sequence": ">AAK84134.1 nictaba [Nicotiana tabacum]\nMQGQWIAARDLSITWVDNPQYWTWKTVDPNIEVAELRRVAWLDIYGKIETKNLIRKTSYAVYLVFKLTDN\nPRELERATASLRFVNEVAEGAGIEGTTVFISKKKKLPGELGRFPHLRSDGWLEIKLGEFFNNLGEDGEVE\nMRLMEINDKTWKSGIIVKGFDIRPN"
+    },
+    {
+      "LectinFamily": "Ricin B",
+      "FullName": "Ricin B",
+      "ItalicSpecies": null,
+      "ModelOrganism": "Ricinus communis",
+      "Pfam": {
+        "Domain": "Ricin_B_lectin",
+        "Id": "PF00652",
+        "Model": "PF00652"
+      },
+      "BlastModel": {
+        "Database": "GenBank",
+        "Accession": "2AAI_B",
+        "File": "2AAI_B.txt"
+      },
+      "Structure": {
+        "PdbId": "1BR5",
+        "Image": "/3d/1BR5.png"
+      },
+      "Sequence": ">pdb|2AAI|B Chain B, Ricin (b Chain)\nADVCMDPEPIVRIVGRNGLCVDVRDGRFHNGNAIQLWPCKSNTDANQLWTLKRDNTIRSNGKCLTTYGYS\nPGVYVMIYDCNTAATDATRWQIWDNGTIINPRSSLVLAATSGNSGTTLTVQTNIYAVSQGWLPTNNTQPF\nVTTIVGLYGLCLQANSGQVWIEDCSSEKAEQQWALYADGSIRPQQNRDNCLTSDSNIRETVVKILSCGPA\nSSGQRWMFKNDGTILNLYSGLVLDVRASDPSLKQIILYPLHGDPNQIWLPLF"
+    }
+  ],
+  "Metadata": {
+    "TotalFamilies": 12,
+    "PfamDomains": 10,
+    "CreatedDate": "2026-04-03",
+    "References": [
+      {
+        "Citation": "Van Damme, E. J., Lannoo, N., & Peumans, W. J. (2008). Plant lectins. In Advances in Botanical Research (pp. 107 to 209).",
+        "Italic": "Advances in Botanical Research",
+        "Doi": "https://doi.org/10.1016/s0065-2296(08)00403-5"
+      },
+      {
+        "Citation": "Tsaneva, M., & Van Damme, E. J. M. (2020). 130 years of Plant Lectin Research. Glycoconjugate Journal, 37(5), 533 to 551.",
+        "Italic": "Glycoconjugate Journal",
+        "Doi": "https://doi.org/10.1007/s10719-020-09942-y"
+      }
+    ]
+  }
+}

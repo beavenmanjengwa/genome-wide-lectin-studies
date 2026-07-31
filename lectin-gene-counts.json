@@ -1,0 +1,92 @@
+{
+  "Title": "Genome-wide lectin gene counts",
+  "Description": "Number of putative lectin genes identified per family across plant genomes.",
+  "Families": [
+    "ABA",
+    "Amaranthin",
+    "CRA",
+    "Cyanovirin",
+    "EUL",
+    "GNA",
+    "Hevein",
+    "Jacalin",
+    "Legume",
+    "LysM",
+    "Nictaba",
+    "Ricin B"
+  ],
+  "Genomes": [
+    {
+      "Species": "Arabidopsis",
+      "Reference": "Eggermont et al. (2017)",
+      "Counts": {
+        "ABA": 0,
+        "Amaranthin": 0,
+        "CRA": 9,
+        "Cyanovirin": 0,
+        "EUL": 1,
+        "GNA": 49,
+        "Hevein": 10,
+        "Jacalin": 50,
+        "Legume": 54,
+        "LysM": 12,
+        "Nictaba": 30,
+        "Ricin B": 2
+      }
+    },
+    {
+      "Species": "Soybean",
+      "Reference": "Van Holle and Van Damme (2015)",
+      "Counts": {
+        "ABA": 0,
+        "Amaranthin": 0,
+        "CRA": 6,
+        "Cyanovirin": 0,
+        "EUL": 3,
+        "GNA": 166,
+        "Hevein": 6,
+        "Jacalin": 5,
+        "Legume": 94,
+        "LysM": 47,
+        "Nictaba": 22,
+        "Ricin B": 10
+      }
+    },
+    {
+      "Species": "Cucumber",
+      "Reference": "Dang and Van Damme (2016)",
+      "Counts": {
+        "ABA": 0,
+        "Amaranthin": 16,
+        "CRA": 4,
+        "Cyanovirin": 0,
+        "EUL": 1,
+        "GNA": 45,
+        "Hevein": 4,
+        "Jacalin": 8,
+        "Legume": 29,
+        "LysM": 10,
+        "Nictaba": 20,
+        "Ricin B": 9
+      }
+    },
+    {
+      "Species": "P. vulgaris",
+      "Reference": "Osman et al. (2025)",
+      "Counts": {
+        "ABA": null,
+        "Amaranthin": null,
+        "CRA": 5,
+        "Cyanovirin": null,
+        "EUL": 1,
+        "GNA": 46,
+        "Hevein": 5,
+        "Jacalin": 2,
+        "Legume": 51,
+        "LysM": 6,
+        "Nictaba": 16,
+        "Ricin B": null
+      }
+    }
+  ]
+}
