@@ -42,7 +42,7 @@ SSDKCFIRLPSQKS
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 0 | Eggermont et al. (2017) |
 | Soybean | 0 | Van Holle and Van Damme (2015) |
 | Cucumber | 0 | Dang and Van Damme (2016) |
@@ -76,7 +76,7 @@ CMNAATQNVDETAILEIIGLGSNN
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 0 | Eggermont et al. (2017) |
 | Soybean | 0 | Van Holle and Van Damme (2015) |
 | Cucumber | 16 | Dang and Van Damme (2016) |
@@ -110,7 +110,7 @@ NYCFKGTDWYGYDDTQSISAKVAYAKQRGLFGYFAWHIEQDSNWALS
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 9 | Eggermont et al. (2017) |
 | Soybean | 6 | Van Holle and Van Damme (2015) |
 | Cucumber | 4 | Dang and Van Damme (2016) |
@@ -142,7 +142,7 @@ TQLAGSSELAAECKTRAQQFVSTKINLDDHIANIDGTLKYE
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 0 | Eggermont et al. (2017) |
 | Soybean | 0 | Van Holle and Van Damme (2015) |
 | Cucumber | 0 | Dang and Van Damme (2016) |
@@ -174,7 +174,7 @@ GVWIDAYNQQWKIEPHTG
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 1 | Eggermont et al. (2017) |
 | Soybean | 3 | Van Holle and Van Damme (2015) |
 | Cucumber | 1 | Dang and Van Damme (2016) |
@@ -207,7 +207,7 @@ PSEKYPTAGKIKLVTAK
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 49 | Eggermont et al. (2017) |
 | Soybean | 166 | Van Holle and Van Damme (2015) |
 | Cucumber | 45 | Dang and Van Damme (2016) |
@@ -240,7 +240,7 @@ AKTTVRIVDQCSNGGLDLDVNVFRQLDTDGKGYERGHITVNYQFVDCGDSFNPLFSVMKSSVIN
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 10 | Eggermont et al. (2017) |
 | Soybean | 6 | Van Holle and Van Damme (2015) |
 | Cucumber | 4 | Dang and Van Damme (2016) |
@@ -274,7 +274,7 @@ FSMYLSL
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 50 | Eggermont et al. (2017) |
 | Soybean | 5 | Van Holle and Van Damme (2015) |
 | Cucumber | 8 | Dang and Van Damme (2016) |
@@ -309,7 +309,7 @@ LHEAI
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 54 | Eggermont et al. (2017) |
 | Soybean | 94 | Van Holle and Van Damme (2015) |
 | Cucumber | 29 | Dang and Van Damme (2016) |
@@ -340,7 +340,7 @@ GVPAEFIQRYNPGVDFRSGRGIVFVPGKDPNGTFP
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 12 | Eggermont et al. (2017) |
 | Soybean | 47 | Van Holle and Van Damme (2015) |
 | Cucumber | 10 | Dang and Van Damme (2016) |
@@ -373,7 +373,7 @@ MRLMEINDKTWKSGIIVKGFDIRPN
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 30 | Eggermont et al. (2017) |
 | Soybean | 22 | Van Holle and Van Damme (2015) |
 | Cucumber | 20 | Dang and Van Damme (2016) |
@@ -407,7 +407,7 @@ SSGQRWMFKNDGTILNLYSGLVLDVRASDPSLKQIILYPLHGDPNQIWLPLF
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
-| --- | :---: | --- |
+| :--- | :--- | :--- |
 | *Arabidopsis* | 2 | Eggermont et al. (2017) |
 | Soybean | 10 | Van Holle and Van Damme (2015) |
 | Cucumber | 9 | Dang and Van Damme (2016) |
