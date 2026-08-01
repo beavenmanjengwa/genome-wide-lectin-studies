@@ -21,7 +21,29 @@
         "PdbId": "1Y2X",
         "Image": "/3d/1Y2X.png"
       },
-      "Sequence": ">AAA85813.1 lectin [Agaricus bisporus]\nMTYTISIRVYQTTPKGFFRPVERTNWKYANGGTWDEVRGEYVLTMGGSGTSGSLRFVSSDTDEIFVATFG\nVHNYKRWCDIVTNLTNEQTALVINQEYYGVPIRDQARENQLTSYNVANAKGRRFAIEYTVTEGIISRPIS\nSSDKCFIRLPSQKS"
+      "Sequence": ">AAA85813.1 lectin [Agaricus bisporus]\nMTYTISIRVYQTTPKGFFRPVERTNWKYANGGTWDEVRGEYVLTMGGSGTSGSLRFVSSDTDEIFVATFG\nVHNYKRWCDIVTNLTNEQTALVINQEYYGVPIRDQARENQLTSYNVANAKGRRFAIEYTVTEGIISRPIS\nSSDKCFIRLPSQKS",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 0,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 0,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 0,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": null,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "Amaranthin",
@@ -42,7 +64,29 @@
         "PdbId": null,
         "Image": null
       },
-      "Sequence": ">AAL05954.1 agglutinin [Amaranthus caudatus]\nMAGLPVIMCLKSNNNQKYLRYQSDNIQQYGLLQFSADKILDPLAQFEVEPSKTYDGLVHIKSRYTNKYLV\nRWSPNHYWITASANEPDENKSNWACTLFKPLYVEEGNMKKVRLLHVQLGHYTQNYTVGGSFVSYLFAESS\nQIDTGSKDVFHVIDWKSIFQFPKRYVTFKGNNGKYLGVITINQLPCLQFGYDNLNDPKVAHEMFVTSNGT\nICIKSTYMNKFWRLSTDDWILVDGNDPRETNEAAALFRSDVHDFNVISLLNMQKTWFIKRFTSGKPGFIN\nCMNAATQNVDETAILEIIGLGSNN"
+      "Sequence": ">AAL05954.1 agglutinin [Amaranthus caudatus]\nMAGLPVIMCLKSNNNQKYLRYQSDNIQQYGLLQFSADKILDPLAQFEVEPSKTYDGLVHIKSRYTNKYLV\nRWSPNHYWITASANEPDENKSNWACTLFKPLYVEEGNMKKVRLLHVQLGHYTQNYTVGGSFVSYLFAESS\nQIDTGSKDVFHVIDWKSIFQFPKRYVTFKGNNGKYLGVITINQLPCLQFGYDNLNDPKVAHEMFVTSNGT\nICIKSTYMNKFWRLSTDDWILVDGNDPRETNEAAALFRSDVHDFNVISLLNMQKTWFIKRFTSGKPGFIN\nCMNAATQNVDETAILEIIGLGSNN",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 0,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 0,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 16,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": null,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "CRA",
@@ -63,7 +107,29 @@
         "PdbId": null,
         "Image": null
       },
-      "Sequence": ">ABL98074.1 chitinase-related agglutinin [Robinia pseudoacacia]\nIKGGYWYSGSGLAVSDINPSHFTHLFCAFADLDPNTNKLTISSSNAAAFSTFTQTVRAKNPSVKTLLSIG\nGGGGRALAAVFANMASQASRRKSFIDSSIQLARRNNFHGLDLDWEYPSSDIDKTNFASLIREWRAAVATE\nSSTSGTPALLLSAAVGGSDQITPLKYYPGEAIANNLDWVNVMTYDLYTSDSYPTLTQPPAPLFYPRGIFS\nADEGITKWIQSGVPESKLALGLPFYGFKWRLSDPNNHGLFAPATQGLGAVKYKDIVNTGGQVEFDSTYVT\nNYCFKGTDWYGYDDTQSISAKVAYAKQRGLFGYFAWHIEQDSNWALS"
+      "Sequence": ">ABL98074.1 chitinase-related agglutinin [Robinia pseudoacacia]\nIKGGYWYSGSGLAVSDINPSHFTHLFCAFADLDPNTNKLTISSSNAAAFSTFTQTVRAKNPSVKTLLSIG\nGGGGRALAAVFANMASQASRRKSFIDSSIQLARRNNFHGLDLDWEYPSSDIDKTNFASLIREWRAAVATE\nSSTSGTPALLLSAAVGGSDQITPLKYYPGEAIANNLDWVNVMTYDLYTSDSYPTLTQPPAPLFYPRGIFS\nADEGITKWIQSGVPESKLALGLPFYGFKWRLSDPNNHGLFAPATQGLGAVKYKDIVNTGGQVEFDSTYVT\nNYCFKGTDWYGYDDTQSISAKVAYAKQRGLFGYFAWHIEQDSNWALS",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 9,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 6,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 4,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": 5,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "Cyanovirin",
@@ -84,7 +150,29 @@
         "PdbId": "1IIY",
         "Image": "/3d/1IIY.png"
       },
-      "Sequence": ">P81180 Cyanovirin-N [Nostoc ellipsosporum]\nLGKFSQTCYNSAIQGSVLTSTCERTNGGYNTSSIDLNSVIENVDGSLKWQPSNFIETCRN\nTQLAGSSELAAECKTRAQQFVSTKINLDDHIANIDGTLKYE"
+      "Sequence": ">P81180 Cyanovirin-N [Nostoc ellipsosporum]\nLGKFSQTCYNSAIQGSVLTSTCERTNGGYNTSSIDLNSVIENVDGSLKWQPSNFIETCRN\nTQLAGSSELAAECKTRAQQFVSTKINLDDHIANIDGTLKYE",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 0,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 0,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 0,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": null,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "EUL",
@@ -105,7 +193,29 @@
         "PdbId": null,
         "Image": null
       },
-      "Sequence": ">ABW73993.1 lectin 1 [Euonymus europaeus]\nMASTIIATGPTYRVYCRAAPNYNMTVGKGVAFLAPIDETNELQYWYKDDTYSYIKDEAGLPAFSLVNKAT\nGLTLKHSNHHPVPVKLVTYNPNVVDESVLWSQADDRGDGYSAIRSLTNPASHLEAAPLNDWSYNGAIIMG\nGVWIDAYNQQWKIEPHTG"
+      "Sequence": ">ABW73993.1 lectin 1 [Euonymus europaeus]\nMASTIIATGPTYRVYCRAAPNYNMTVGKGVAFLAPIDETNELQYWYKDDTYSYIKDEAGLPAFSLVNKAT\nGLTLKHSNHHPVPVKLVTYNPNVVDESVLWSQADDRGDGYSAIRSLTNPASHLEAAPLNDWSYNGAIIMG\nGVWIDAYNQQWKIEPHTG",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 1,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 3,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 1,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": 1,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "GNA",
@@ -126,7 +236,29 @@
         "PdbId": "1MSA",
         "Image": "/3d/1MSA.png"
       },
-      "Sequence": ">AAA33346.1 lectin [Galanthus nivalis]\nMAKASLLILAAIFLGVITPSCLSDNILYSGETLSTGEFLNYGSFVFIMQEDCNLVLYDVDKPIWATNTGG\nLSRSCFLSMQTDGNLVVYNPSNKPIWASNTGGQNGNYVCILQKDRNVVIYGTDRWATGTHTGLVGIPASP\nPSEKYPTAGKIKLVTAK"
+      "Sequence": ">AAA33346.1 lectin [Galanthus nivalis]\nMAKASLLILAAIFLGVITPSCLSDNILYSGETLSTGEFLNYGSFVFIMQEDCNLVLYDVDKPIWATNTGG\nLSRSCFLSMQTDGNLVVYNPSNKPIWASNTGGQNGNYVCILQKDRNVVIYGTDRWATGTHTGLVGIPASP\nPSEKYPTAGKIKLVTAK",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 49,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 166,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 45,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": 46,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "Hevein",
@@ -147,7 +279,29 @@
         "PdbId": "4WP4",
         "Image": "/3d/4WP4.png"
       },
-      "Sequence": ">AAA33357.1 hevein (HEV1) precursor [Hevea brasiliensis]\nMNIFIVVLLCLTGVAIAEQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNCKDSGEGVGGGSA\nSNVLATYHLYNSQDHGWDLNAASAYCSTWDANKPYSWRSKYGWTAFCGPVGAHGQSSCGKCLSVTNTGTG\nAKTTVRIVDQCSNGGLDLDVNVFRQLDTDGKGYERGHITVNYQFVDCGDSFNPLFSVMKSSVIN"
+      "Sequence": ">AAA33357.1 hevein (HEV1) precursor [Hevea brasiliensis]\nMNIFIVVLLCLTGVAIAEQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNCKDSGEGVGGGSA\nSNVLATYHLYNSQDHGWDLNAASAYCSTWDANKPYSWRSKYGWTAFCGPVGAHGQSSCGKCLSVTNTGTG\nAKTTVRIVDQCSNGGLDLDVNVFRQLDTDGKGYERGHITVNYQFVDCGDSFNPLFSVMKSSVIN",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 10,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 6,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 4,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": 5,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "JRL",
@@ -168,7 +322,29 @@
         "PdbId": "4R6R",
         "Image": "/3d/4R6R.png"
       },
-      "Sequence": ">AAA32680.1 jacalin [Artocarpus integer]\nMAYSSLLSLSVLALLFSISSADTRKWFLANGINQNPIGIIEAAVGVSEDLLNLNGMEAKNDEQSGISQTV\nIVGPWGAKVSTSSNGKAFDDGAFTGIREINLSYNKETAIGDFQVVYDLNGSPYVGQNHKSFITGFTPVKI\nSLDFPSEYIMEVSGYTGNVSGYVVVRSLTFKTNKKTYGPYGVTSGTPFNLPIENGLIVGFKGSIGYWLDY\nFSMYLSL"
+      "Sequence": ">AAA32680.1 jacalin [Artocarpus integer]\nMAYSSLLSLSVLALLFSISSADTRKWFLANGINQNPIGIIEAAVGVSEDLLNLNGMEAKNDEQSGISQTV\nIVGPWGAKVSTSSNGKAFDDGAFTGIREINLSYNKETAIGDFQVVYDLNGSPYVGQNHKSFITGFTPVKI\nSLDFPSEYIMEVSGYTGNVSGYVVVRSLTFKTNKKTYGPYGVTSGTPFNLPIENGLIVGFKGSIGYWLDY\nFSMYLSL",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 50,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 5,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 8,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": 2,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "Legume lectin",
@@ -189,7 +365,29 @@
         "PdbId": "1JBC",
         "Image": "/3d/1JBC.png"
       },
-      "Sequence": ">AAA33983.1 lectin prepeptide [Glycine max]\nMATSKLKTQNVVVSLSLTLTLVLVLLTSKANSAETVSFSWNKFVPKQPNMILQGDAIVTSSGKLQLNKVD\nENGTPKPSSLGRALYSTPIHIWDKETGSVASFAASFNFTFYAPDTKRLADGLAFFLAPIDTKPQTHAGYL\nGLFNENESGDQVVAVEFDTFRNSWDPPNPHIGINVNSIRSIKTTSWDLANNKVAKVLITYDASTSLLVAS\nLVYPSQRTSNILSDVVDLKTSLPEWVRIGFSAATGLDIPGESHDVLSWSFASNLPHASSNIDPLDLTSFV\nLHEAI"
+      "Sequence": ">AAA33983.1 lectin prepeptide [Glycine max]\nMATSKLKTQNVVVSLSLTLTLVLVLLTSKANSAETVSFSWNKFVPKQPNMILQGDAIVTSSGKLQLNKVD\nENGTPKPSSLGRALYSTPIHIWDKETGSVASFAASFNFTFYAPDTKRLADGLAFFLAPIDTKPQTHAGYL\nGLFNENESGDQVVAVEFDTFRNSWDPPNPHIGINVNSIRSIKTTSWDLANNKVAKVLITYDASTSLLVAS\nLVYPSQRTSNILSDVVDLKTSLPEWVRIGFSAATGLDIPGESHDVLSWSFASNLPHASSNIDPLDLTSFV\nLHEAI",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 54,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 94,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 29,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": 51,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "LysM",
@@ -210,7 +408,29 @@
         "PdbId": "5JCE",
         "Image": "/3d/5JCE.png"
       },
-      "Sequence": ">BAN83772.1 LysM domain [Brassica juncea]\nGVPAEFIQRYNPGVDFRSGRGIVFVPGKDPNGTFP"
+      "Sequence": ">BAN83772.1 LysM domain [Brassica juncea]\nGVPAEFIQRYNPGVDFRSGRGIVFVPGKDPNGTFP",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 12,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 47,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 10,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": 6,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "Nictaba",
@@ -231,7 +451,29 @@
         "PdbId": "8AD2",
         "Image": "/3d/8AD2.png"
       },
-      "Sequence": ">AAK84134.1 nictaba [Nicotiana tabacum]\nMQGQWIAARDLSITWVDNPQYWTWKTVDPNIEVAELRRVAWLDIYGKIETKNLIRKTSYAVYLVFKLTDN\nPRELERATASLRFVNEVAEGAGIEGTTVFISKKKKLPGELGRFPHLRSDGWLEIKLGEFFNNLGEDGEVE\nMRLMEINDKTWKSGIIVKGFDIRPN"
+      "Sequence": ">AAK84134.1 nictaba [Nicotiana tabacum]\nMQGQWIAARDLSITWVDNPQYWTWKTVDPNIEVAELRRVAWLDIYGKIETKNLIRKTSYAVYLVFKLTDN\nPRELERATASLRFVNEVAEGAGIEGTTVFISKKKKLPGELGRFPHLRSDGWLEIKLGEFFNNLGEDGEVE\nMRLMEINDKTWKSGIIVKGFDIRPN",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 30,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 22,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 20,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": 16,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     },
     {
       "LectinFamily": "Ricin B",
@@ -252,7 +494,29 @@
         "PdbId": "1BR5",
         "Image": "/3d/1BR5.png"
       },
-      "Sequence": ">pdb|2AAI|B Chain B, Ricin (b Chain)\nADVCMDPEPIVRIVGRNGLCVDVRDGRFHNGNAIQLWPCKSNTDANQLWTLKRDNTIRSNGKCLTTYGYS\nPGVYVMIYDCNTAATDATRWQIWDNGTIINPRSSLVLAATSGNSGTTLTVQTNIYAVSQGWLPTNNTQPF\nVTTIVGLYGLCLQANSGQVWIEDCSSEKAEQQWALYADGSIRPQQNRDNCLTSDSNIRETVVKILSCGPA\nSSGQRWMFKNDGTILNLYSGLVLDVRASDPSLKQIILYPLHGDPNQIWLPLF"
+      "Sequence": ">pdb|2AAI|B Chain B, Ricin (b Chain)\nADVCMDPEPIVRIVGRNGLCVDVRDGRFHNGNAIQLWPCKSNTDANQLWTLKRDNTIRSNGKCLTTYGYS\nPGVYVMIYDCNTAATDATRWQIWDNGTIINPRSSLVLAATSGNSGTTLTVQTNIYAVSQGWLPTNNTQPF\nVTTIVGLYGLCLQANSGQVWIEDCSSEKAEQQWALYADGSIRPQQNRDNCLTSDSNIRETVVKILSCGPA\nSSGQRWMFKNDGTILNLYSGLVLDVRASDPSLKQIILYPLHGDPNQIWLPLF",
+      "GenomeWideCounts": [
+        {
+          "Genome": "Arabidopsis",
+          "Count": 2,
+          "Reference": "Eggermont et al. (2017)"
+        },
+        {
+          "Genome": "Soybean",
+          "Count": 10,
+          "Reference": "Van Holle and Van Damme (2015)"
+        },
+        {
+          "Genome": "Cucumber",
+          "Count": 9,
+          "Reference": "Dang and Van Damme (2016)"
+        },
+        {
+          "Genome": "P. vulgaris",
+          "Count": null,
+          "Reference": "Osman et al. (2025)"
+        }
+      ]
     }
   ],
   "Metadata": {
