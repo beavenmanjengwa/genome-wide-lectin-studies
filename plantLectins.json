@@ -37,11 +37,6 @@
           "Genome": "Cucumber",
           "Count": 0,
           "Reference": "Dang and Van Damme (2016)"
-        },
-        {
-          "Genome": "P. vulgaris",
-          "Count": null,
-          "Reference": "Osman et al. (2025)"
         }
       ]
     },
@@ -80,11 +75,6 @@
           "Genome": "Cucumber",
           "Count": 16,
           "Reference": "Dang and Van Damme (2016)"
-        },
-        {
-          "Genome": "P. vulgaris",
-          "Count": null,
-          "Reference": "Osman et al. (2025)"
         }
       ]
     },
@@ -166,11 +156,6 @@
           "Genome": "Cucumber",
           "Count": 0,
           "Reference": "Dang and Van Damme (2016)"
-        },
-        {
-          "Genome": "P. vulgaris",
-          "Count": null,
-          "Reference": "Osman et al. (2025)"
         }
       ]
     },
@@ -510,11 +495,6 @@
           "Genome": "Cucumber",
           "Count": 9,
           "Reference": "Dang and Van Damme (2016)"
-        },
-        {
-          "Genome": "P. vulgaris",
-          "Count": null,
-          "Reference": "Osman et al. (2025)"
         }
       ]
     }
