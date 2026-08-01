@@ -30,14 +30,6 @@ Reference model sequences and conserved Pfam domains used for the identification
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 0 | Eggermont et al. (2017) |
-| Soybean | 0 | Van Holle and Van Damme (2015) |
-| Cucumber | 0 | Dang and Van Damme (2016) |
-
 **Model FASTA sequence**
 
 ```
@@ -46,6 +38,14 @@ MTYTISIRVYQTTPKGFFRPVERTNWKYANGGTWDEVRGEYVLTMGGSGTSGSLRFVSSDTDEIFVATFG
 VHNYKRWCDIVTNLTNEQTALVINQEYYGVPIRDQARENQLTSYNVANAKGRRFAIEYTVTEGIISRPIS
 SSDKCFIRLPSQKS
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 0 | Eggermont et al. (2017) |
+| Soybean | 0 | Van Holle and Van Damme (2015) |
+| Cucumber | 0 | Dang and Van Damme (2016) |
 
 ---
 
@@ -62,14 +62,6 @@ SSDKCFIRLPSQKS
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 0 | Eggermont et al. (2017) |
-| Soybean | 0 | Van Holle and Van Damme (2015) |
-| Cucumber | 16 | Dang and Van Damme (2016) |
-
 **Model FASTA sequence**
 
 ```
@@ -80,6 +72,14 @@ QIDTGSKDVFHVIDWKSIFQFPKRYVTFKGNNGKYLGVITINQLPCLQFGYDNLNDPKVAHEMFVTSNGT
 ICIKSTYMNKFWRLSTDDWILVDGNDPRETNEAAALFRSDVHDFNVISLLNMQKTWFIKRFTSGKPGFIN
 CMNAATQNVDETAILEIIGLGSNN
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 0 | Eggermont et al. (2017) |
+| Soybean | 0 | Van Holle and Van Damme (2015) |
+| Cucumber | 16 | Dang and Van Damme (2016) |
 
 ---
 
@@ -96,15 +96,6 @@ CMNAATQNVDETAILEIIGLGSNN
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 9 | Eggermont et al. (2017) |
-| Soybean | 6 | Van Holle and Van Damme (2015) |
-| Cucumber | 4 | Dang and Van Damme (2016) |
-| *P. vulgaris* | 5 | Osman et al. (2025) |
-
 **Model FASTA sequence**
 
 ```
@@ -115,6 +106,15 @@ SSTSGTPALLLSAAVGGSDQITPLKYYPGEAIANNLDWVNVMTYDLYTSDSYPTLTQPPAPLFYPRGIFS
 ADEGITKWIQSGVPESKLALGLPFYGFKWRLSDPNNHGLFAPATQGLGAVKYKDIVNTGGQVEFDSTYVT
 NYCFKGTDWYGYDDTQSISAKVAYAKQRGLFGYFAWHIEQDSNWALS
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 9 | Eggermont et al. (2017) |
+| Soybean | 6 | Van Holle and Van Damme (2015) |
+| Cucumber | 4 | Dang and Van Damme (2016) |
+| *P. vulgaris* | 5 | Osman et al. (2025) |
 
 ---
 
@@ -131,14 +131,6 @@ NYCFKGTDWYGYDDTQSISAKVAYAKQRGLFGYFAWHIEQDSNWALS
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 0 | Eggermont et al. (2017) |
-| Soybean | 0 | Van Holle and Van Damme (2015) |
-| Cucumber | 0 | Dang and Van Damme (2016) |
-
 **Model FASTA sequence**
 
 ```
@@ -146,6 +138,14 @@ NYCFKGTDWYGYDDTQSISAKVAYAKQRGLFGYFAWHIEQDSNWALS
 LGKFSQTCYNSAIQGSVLTSTCERTNGGYNTSSIDLNSVIENVDGSLKWQPSNFIETCRN
 TQLAGSSELAAECKTRAQQFVSTKINLDDHIANIDGTLKYE
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 0 | Eggermont et al. (2017) |
+| Soybean | 0 | Van Holle and Van Damme (2015) |
+| Cucumber | 0 | Dang and Van Damme (2016) |
 
 ---
 
@@ -162,15 +162,6 @@ TQLAGSSELAAECKTRAQQFVSTKINLDDHIANIDGTLKYE
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 1 | Eggermont et al. (2017) |
-| Soybean | 3 | Van Holle and Van Damme (2015) |
-| Cucumber | 1 | Dang and Van Damme (2016) |
-| *P. vulgaris* | 1 | Osman et al. (2025) |
-
 **Model FASTA sequence**
 
 ```
@@ -179,6 +170,15 @@ MASTIIATGPTYRVYCRAAPNYNMTVGKGVAFLAPIDETNELQYWYKDDTYSYIKDEAGLPAFSLVNKAT
 GLTLKHSNHHPVPVKLVTYNPNVVDESVLWSQADDRGDGYSAIRSLTNPASHLEAAPLNDWSYNGAIIMG
 GVWIDAYNQQWKIEPHTG
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 1 | Eggermont et al. (2017) |
+| Soybean | 3 | Van Holle and Van Damme (2015) |
+| Cucumber | 1 | Dang and Van Damme (2016) |
+| *P. vulgaris* | 1 | Osman et al. (2025) |
 
 ---
 
@@ -195,15 +195,6 @@ GVWIDAYNQQWKIEPHTG
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 49 | Eggermont et al. (2017) |
-| Soybean | 166 | Van Holle and Van Damme (2015) |
-| Cucumber | 45 | Dang and Van Damme (2016) |
-| *P. vulgaris* | 46 | Osman et al. (2025) |
-
 **Model FASTA sequence**
 
 ```
@@ -212,6 +203,15 @@ MAKASLLILAAIFLGVITPSCLSDNILYSGETLSTGEFLNYGSFVFIMQEDCNLVLYDVDKPIWATNTGG
 LSRSCFLSMQTDGNLVVYNPSNKPIWASNTGGQNGNYVCILQKDRNVVIYGTDRWATGTHTGLVGIPASP
 PSEKYPTAGKIKLVTAK
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 49 | Eggermont et al. (2017) |
+| Soybean | 166 | Van Holle and Van Damme (2015) |
+| Cucumber | 45 | Dang and Van Damme (2016) |
+| *P. vulgaris* | 46 | Osman et al. (2025) |
 
 ---
 
@@ -228,15 +228,6 @@ PSEKYPTAGKIKLVTAK
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 10 | Eggermont et al. (2017) |
-| Soybean | 6 | Van Holle and Van Damme (2015) |
-| Cucumber | 4 | Dang and Van Damme (2016) |
-| *P. vulgaris* | 5 | Osman et al. (2025) |
-
 **Model FASTA sequence**
 
 ```
@@ -245,6 +236,15 @@ MNIFIVVLLCLTGVAIAEQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNCKDSGEGVGGGSA
 SNVLATYHLYNSQDHGWDLNAASAYCSTWDANKPYSWRSKYGWTAFCGPVGAHGQSSCGKCLSVTNTGTG
 AKTTVRIVDQCSNGGLDLDVNVFRQLDTDGKGYERGHITVNYQFVDCGDSFNPLFSVMKSSVIN
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 10 | Eggermont et al. (2017) |
+| Soybean | 6 | Van Holle and Van Damme (2015) |
+| Cucumber | 4 | Dang and Van Damme (2016) |
+| *P. vulgaris* | 5 | Osman et al. (2025) |
 
 ---
 
@@ -261,15 +261,6 @@ AKTTVRIVDQCSNGGLDLDVNVFRQLDTDGKGYERGHITVNYQFVDCGDSFNPLFSVMKSSVIN
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 50 | Eggermont et al. (2017) |
-| Soybean | 5 | Van Holle and Van Damme (2015) |
-| Cucumber | 8 | Dang and Van Damme (2016) |
-| *P. vulgaris* | 2 | Osman et al. (2025) |
-
 **Model FASTA sequence**
 
 ```
@@ -279,6 +270,15 @@ IVGPWGAKVSTSSNGKAFDDGAFTGIREINLSYNKETAIGDFQVVYDLNGSPYVGQNHKSFITGFTPVKI
 SLDFPSEYIMEVSGYTGNVSGYVVVRSLTFKTNKKTYGPYGVTSGTPFNLPIENGLIVGFKGSIGYWLDY
 FSMYLSL
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 50 | Eggermont et al. (2017) |
+| Soybean | 5 | Van Holle and Van Damme (2015) |
+| Cucumber | 8 | Dang and Van Damme (2016) |
+| *P. vulgaris* | 2 | Osman et al. (2025) |
 
 ---
 
@@ -295,15 +295,6 @@ FSMYLSL
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 54 | Eggermont et al. (2017) |
-| Soybean | 94 | Van Holle and Van Damme (2015) |
-| Cucumber | 29 | Dang and Van Damme (2016) |
-| *P. vulgaris* | 51 | Osman et al. (2025) |
-
 **Model FASTA sequence**
 
 ```
@@ -314,6 +305,15 @@ GLFNENESGDQVVAVEFDTFRNSWDPPNPHIGINVNSIRSIKTTSWDLANNKVAKVLITYDASTSLLVAS
 LVYPSQRTSNILSDVVDLKTSLPEWVRIGFSAATGLDIPGESHDVLSWSFASNLPHASSNIDPLDLTSFV
 LHEAI
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 54 | Eggermont et al. (2017) |
+| Soybean | 94 | Van Holle and Van Damme (2015) |
+| Cucumber | 29 | Dang and Van Damme (2016) |
+| *P. vulgaris* | 51 | Osman et al. (2025) |
 
 ---
 
@@ -330,6 +330,13 @@ LHEAI
   </tbody>
 </table>
 
+**Model FASTA sequence**
+
+```
+>BAN83772.1 LysM domain [Brassica juncea]
+GVPAEFIQRYNPGVDFRSGRGIVFVPGKDPNGTFP
+```
+
 **Genome-wide counts**
 
 | Genome | Genes | Reference |
@@ -338,13 +345,6 @@ LHEAI
 | Soybean | 47 | Van Holle and Van Damme (2015) |
 | Cucumber | 10 | Dang and Van Damme (2016) |
 | *P. vulgaris* | 6 | Osman et al. (2025) |
-
-**Model FASTA sequence**
-
-```
->BAN83772.1 LysM domain [Brassica juncea]
-GVPAEFIQRYNPGVDFRSGRGIVFVPGKDPNGTFP
-```
 
 ---
 
@@ -361,15 +361,6 @@ GVPAEFIQRYNPGVDFRSGRGIVFVPGKDPNGTFP
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 30 | Eggermont et al. (2017) |
-| Soybean | 22 | Van Holle and Van Damme (2015) |
-| Cucumber | 20 | Dang and Van Damme (2016) |
-| *P. vulgaris* | 16 | Osman et al. (2025) |
-
 **Model FASTA sequence**
 
 ```
@@ -378,6 +369,15 @@ MQGQWIAARDLSITWVDNPQYWTWKTVDPNIEVAELRRVAWLDIYGKIETKNLIRKTSYAVYLVFKLTDN
 PRELERATASLRFVNEVAEGAGIEGTTVFISKKKKLPGELGRFPHLRSDGWLEIKLGEFFNNLGEDGEVE
 MRLMEINDKTWKSGIIVKGFDIRPN
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 30 | Eggermont et al. (2017) |
+| Soybean | 22 | Van Holle and Van Damme (2015) |
+| Cucumber | 20 | Dang and Van Damme (2016) |
+| *P. vulgaris* | 16 | Osman et al. (2025) |
 
 ---
 
@@ -394,14 +394,6 @@ MRLMEINDKTWKSGIIVKGFDIRPN
   </tbody>
 </table>
 
-**Genome-wide counts**
-
-| Genome | Genes | Reference |
-| --- | :---: | --- |
-| *Arabidopsis* | 2 | Eggermont et al. (2017) |
-| Soybean | 10 | Van Holle and Van Damme (2015) |
-| Cucumber | 9 | Dang and Van Damme (2016) |
-
 **Model FASTA sequence**
 
 ```
@@ -411,6 +403,14 @@ PGVYVMIYDCNTAATDATRWQIWDNGTIINPRSSLVLAATSGNSGTTLTVQTNIYAVSQGWLPTNNTQPF
 VTTIVGLYGLCLQANSGQVWIEDCSSEKAEQQWALYADGSIRPQQNRDNCLTSDSNIRETVVKILSCGPA
 SSGQRWMFKNDGTILNLYSGLVLDVRASDPSLKQIILYPLHGDPNQIWLPLF
 ```
+
+**Genome-wide counts**
+
+| Genome | Genes | Reference |
+| --- | :---: | --- |
+| *Arabidopsis* | 2 | Eggermont et al. (2017) |
+| Soybean | 10 | Van Holle and Van Damme (2015) |
+| Cucumber | 9 | Dang and Van Damme (2016) |
 
 ---
 
