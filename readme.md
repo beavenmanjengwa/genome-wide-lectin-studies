@@ -89,7 +89,7 @@ CMNAATQNVDETAILEIIGLGSNN
   <thead><tr><th align="left">Property</th><th align="left">Value</th><th align="left">3D structure</th></tr></thead>
   <tbody>
     <tr><td><b>Model organism</b></td><td><i>Robinia pseudoacacia</i></td><td rowspan="5" align="center">Not determined</td></tr>
-    <tr><td><b>Lectin domain</b></td><td>N/A</td></tr>
+    <tr><td><b>Lectin domain</b></td><td>CRA</td></tr>
     <tr><td><b>Pfam ID</b></td><td>N/A</td></tr>
     <tr><td><b>Accession</b></td><td><a href="https://www.ncbi.nlm.nih.gov/protein/ABL98074" target="_blank" rel="noopener noreferrer">ABL98074</a></td></tr>
     <tr><td><b>PDB</b></td><td>Not determined</td></tr>
